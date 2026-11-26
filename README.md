@@ -1,10 +1,11 @@
-# hi 🌸
+<p align="center"><img src="https://prettygit.com/api/card?type=scene&username=ummaytabnoom&theme=aurora&scene=orbit&v=12" alt="Hero scene" width="100%" /></p>
 
-![cozy](https://media.licdn.com/dms/image/v2/D4E22AQGLjJ-7fdEMrA/feedshare-shrink_800/feedshare-shrink_800/0/1692034648340?e=1771459200&v=beta&t=-C2u75hnlVJGvVmEX0zXoV30lD9dJf4kw8AfaEG2Vmo)
+<p align="center"><a href="https://github.com/ummaytabnoom?tab=overview"><img src="https://prettygit.com/api/card?type=stats&username=ummaytabnoom&theme=skin-orbit&v=12" alt="GitHub stats" width="100%" /></a></p>
 
-i’m learning **C programming** and **Data Structures & Algorithms**, slowly and gently.  
-i practice loops, functions, arrays, pointers, and basic DSA like linked lists, stacks, and queues.  
-still a beginner, still curious, still trying every day ☕💻  
+<p align="center"><a href="https://github.com/ummaytabnoom?tab=repositories&amp;sort=stargazers"><img src="https://prettygit.com/api/card?type=languages&username=ummaytabnoom&theme=skin-orbit&v=12" alt="Top languages" width="100%" /></a></p>
 
-this GitHub is my learning diary messy code, small wins, and steady progress.  
-i’m here to grow, not to be perfect 🌸
+<p align="center"><a href="https://github.com/ummaytabnoom?tab=repositories"><img src="https://prettygit.com/api/card?type=projects&username=ummaytabnoom&theme=skin-orbit&count=4&v=12" alt="Projects" width="100%" /></a></p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,mysql&amp;theme=dark" alt="Tech stack" width="50%" /></p>
+
+<p align="right"><sub>Made with <a href="https://prettygit.com">PrettyGit</a></sub></p>
